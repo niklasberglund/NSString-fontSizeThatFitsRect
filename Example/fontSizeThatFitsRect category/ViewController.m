@@ -80,10 +80,6 @@
     label1.font = [UIFont fontWithName:fontName size:[textString fontSizeThatFitsRect:self.containerView1.frame fontName:fontName]];
     label2.font = [UIFont fontWithName:fontName size:[textString fontSizeThatFitsRect:self.containerView2.frame fontName:fontName]];
     label3.font = [UIFont fontWithName:fontName size:[textString fontSizeThatFitsRect:self.containerView3.frame fontName:fontName]];
-    
-    label1.lineBreakMode = UILineBreakModeClip;
-    label2.lineBreakMode = UILineBreakModeClip;
-    label3.lineBreakMode = UILineBreakModeClip;
 }
 
 @end

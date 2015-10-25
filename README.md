@@ -1,5 +1,5 @@
 # NSString-fontSizeThatFitsRect
-A NSString category for getting the maximum font size a string can have to still fit within a rect. Useful when you want to maximize the font size and stay within the bounds of a UI element.
+A NSString category for getting the maximum font size a NSString can have and still fit within a rect. Useful when you want to maximize the font size and stay within the bounds of a UI element.
 
 ![Screenshot from example project](https://raw.githubusercontent.com/niklasberglund/NSString-fontSizeThatFitsRect/master/Example%20project%20screenshot.png "Screenshot")
 
